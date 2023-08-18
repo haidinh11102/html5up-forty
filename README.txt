@@ -1,5 +1,5 @@
 
-Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+Free for personal and commercial use under the CCA 3.0 license 
 
 
 This is Forty, my latest and greatest addition to HTML5 UP and, per its incredibly
